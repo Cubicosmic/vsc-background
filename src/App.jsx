@@ -7,7 +7,7 @@ export default function App() {
     return (
         <>
 
-            {/* fondo */}
+            {/* fondo etc */}
             <div className='fondo'><ParticlesG/></div>
 
         </>
