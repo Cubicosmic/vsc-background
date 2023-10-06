@@ -19,7 +19,7 @@ export default function ParticlesG() {
         init={particlesInit}
         loaded={particlesLoaded}
         options={{
-            fpsLimit: 150,
+            fpsLimit: 75,
             interactivity: {
                 events: {
                     onClick: {
